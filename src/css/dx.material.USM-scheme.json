@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "key": "$base-accent",
+            "value": "#3f51b5"
+        },
+        {
+            "key": "$button-normal-bg",
+            "value": "rgba(229, 179, 0, 1)"
+        },
+        {
+            "key": "$button-normal-color",
+            "value": "rgba(0, 0, 0, 1)"
+        },
+        {
+            "key": "$button-default-color",
+            "value": "rgba(255, 255, 255, 1)"
+        }
+    ],
+    "baseTheme": "material.teal.light",
+    "outputColorScheme": "USM-scheme",
+    "makeSwatch": false,
+    "version": "20.2.4",
+    "widgets": [
+        "Scheduler",
+        "TreeList",
+        "Accordion",
+        "Box",
+        "ContextMenu",
+        "Drawer",
+        "Menu",
+        "MultiView",
+        "NavBar",
+        "ResponsiveBox",
+        "SlideOut",
+        "SlideOutView",
+        "TabPanel",
+        "Tabs",
+        "TileView",
+        "Toolbar",
+        "TreeView",
+        "Autocomplete",
+        "Calendar",
+        "CheckBox",
+        "ColorBox",
+        "DateBox",
+        "DropDownBox",
+        "Form",
+        "HtmlEditor",
+        "Lookup",
+        "NumberBox",
+        "RadioGroup",
+        "RangeSlider",
+        "SelectBox",
+        "Slider",
+        "Switch",
+        "TagBox",
+        "TextBox",
+        "Validation",
+        "ActionSheet",
+        "Button",
+        "ButtonGroup",
+        "DropDownButton",
+        "SpeedDialAction",
+        "Gallery",
+        "List"
+    ]
+}
